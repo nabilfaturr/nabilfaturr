@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Nextjs, Typescript, C++, and Go**
 
-- 👨‍💻 All of my projects are available at [nabilfaturr.site](nabilfaturr.site)
+- 👨‍💻 All of my projects are available at [nabilfaturr.site](https://nabilfaturr.site)
 
-- 📝 I regularly write articles on [nabilfaturr.site/blog](nabilfaturr.site/blog)
+- 📝 I regularly write articles on [nabilfaturr.site/blog](https://nabilfaturr.site/blog)
 
 - 💬 Ask me about **React, Web Design**
 

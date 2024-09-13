@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React, Web Design**
 
-- 📫 How to reach me **devnabilfaturr.com**
+- 📫 How to reach me **devnabilfaturr@gmail.com**
 
-- ⚡ Fun fact **I like music (a lot)**
+- ⚡ Fun fact **When im off the screen, I often spend time playing musical instruments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

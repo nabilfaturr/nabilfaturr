@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabil Faturrahman</h1>
-<h3 align="center">Aspiring Fullstack Engineer from Indonesia!.</h3>
+<h3 align="center">Aspiring Fullstack Engineer from Indonesia!</h3>
 
-- 🌱 I’m currently learning **Nextjs, Typescript, C++, and Go**
+- 🌱 I’m currently learning **Nextjs, Typescript, C++, GCP, Kubernetes, and Go**
 
 - 👨‍💻 All of my projects are available at [nabilfaturr.site](https://nabilfaturr.site)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devnabilfaturr@gmail.com**
 
-- ⚡ Fun fact **When im off the screen, I often spend time playing musical instruments.**
+- ⚡ Fun fact **When im off the screen, I often spend time playing musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
